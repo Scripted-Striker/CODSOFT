@@ -1,2 +1,2 @@
-# CODESOFT
-Internship at Codesoft
+# CODSOFT
+Internship at Codsoft
