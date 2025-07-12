@@ -27,7 +27,8 @@ This project predicts the IMDb rating of a movie based on features like genre, d
 
 ---
 
-## Project Structure
+## Project Structure 
+(view in code recommended)
 
 movie-rating-prediction/
 │
